@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
-# import Selenium
+# import Selenium library - import selenium / from selenium import webdriver
 # download ChromeDriver - https://chromedriver.chromium.org/downloads
 
 # useful links for selenium errors
