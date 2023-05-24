@@ -2,6 +2,9 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 
+# import Selenium
+# download ChromeDriver - https://chromedriver.chromium.org/downloads
+
 # useful links for selenium errors
 # https://stackoverflow.com/questions/69875125/find-element-by-commands-are-deprecated-in-selenium
 # https://stackoverflow.com/questions/10251525/how-can-i-get-the-current-contents-of-an-element-in-webdriver/43047867#43047867
